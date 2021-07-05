@@ -5,7 +5,11 @@
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: Contact me via [gmail](https://mail.google.com/mail/u/0/?fs=1&to=shouryasinha001@gmail.com&su=&tf=cm) or discord(Copyright(C)#0237)
 
+
+
 - Here's my [SO account](https://stackoverflow.com/users/13845215/copyrightc)
+
+
 [![SATAN01's github stats](https://github-readme-stats.vercel.app/api?username=SATAN01&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/SATAN01/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SATAN01)](https://github.com/SATAN01/github-readme-stats)
