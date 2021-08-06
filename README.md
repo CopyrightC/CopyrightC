@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shouryasinha001@gmail.com**
 
-- ✨ <a href="copyrightc.netlify.app">My website </a>
+- ✨ <a href="https://copyrightc.netlify.app/" target="_blank">My website </a>
 
 
 ## 🚀 Languages and Tools:
