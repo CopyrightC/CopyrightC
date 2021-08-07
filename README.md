@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **Copyright(C)#0237** on Discord :)
+- 📫 How to reach me :  Catch me on [discord](http://discord.com/users/510444035349938186)
 
 - ✨ <a href="https://copyrightc.netlify.app/" target="_blank">My website </a>
 
