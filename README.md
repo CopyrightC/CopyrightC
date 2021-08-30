@@ -28,7 +28,7 @@
 
 <br/>
 
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SATAN01's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SATAN01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SATAN01's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CopyrightC&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 
  ![carbon](https://user-images.githubusercontent.com/68592417/131337437-443b64d9-766c-4d84-9d97-e477d892d102.png)
  
@@ -36,21 +36,21 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SATAN01/github-readme-stats"><img alt="SATAN01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SATAN01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SATAN01/github-readme-stats"><img alt=" SATAN01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATAN01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/CopyrightC/github-readme-stats"><img alt="CopyrightC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CopyrightC&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/CopyrightC/github-readme-stats"><img alt=" SATAN01's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CopyrightC&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/SATAN01/github-readme-activity-graph"><img alt="SATAN01's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SATAN01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/CopyrightC/github-readme-activity-graph"><img alt="CopyrightC's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CopyrightC&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/SATAN01/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SATAN01">
+<a href="https://github.com/CopyrightC/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=CopyrightC">
 </a>
-<a href="https://github.com/SATAN01?tab=followers"><img src="https://img.shields.io/github/followers/SATAN01?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/CopyrightC?tab=followers"><img src="https://img.shields.io/github/followers/CopyrightC?label=Followers&style=social" alt="GitHub Badge"></a>
