@@ -51,6 +51,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/CopyrightC/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=CopyrightC">
+    <img src="https://komarev.com/ghpvc/?username=SATAN01">
 </a>
 <a href="https://github.com/SATAN01?tab=followers"><img src="https://img.shields.io/github/followers/CopyrightC?label=Followers&style=social" alt="GitHub Badge"></a>
