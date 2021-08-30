@@ -53,4 +53,4 @@
 <a href="https://github.com/CopyrightC/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=CopyrightC">
 </a>
-<a href="https://github.com/CopyrightC?tab=followers"><img src="https://img.shields.io/github/followers/CopyrightC?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SATAN01?tab=followers"><img src="https://img.shields.io/github/followers/CopyrightC?label=Followers&style=social" alt="GitHub Badge"></a>
