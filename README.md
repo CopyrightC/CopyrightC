@@ -30,9 +30,10 @@
 
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SATAN01's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CopyrightC&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 
- ![carbon](https://user-images.githubusercontent.com/68592417/131337437-443b64d9-766c-4d84-9d97-e477d892d102.png)
  
- 
+ ![carbon (1)](https://user-images.githubusercontent.com/68592417/140753969-2b1999f6-054b-4b97-a8f5-75529aa70ca4.png)
+
+
 ## 📊 My Github Stats
 
   <br/>
