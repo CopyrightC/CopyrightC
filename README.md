@@ -45,6 +45,10 @@
 <br/>
 
 
+
+<a href="https://github.com/CopyrightC/github-readme-activity-graph"><img alt="CopyrightC's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CopyrightC&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
 ## ❤ Views and Followers
 <a href="https://github.com/CopyrightC/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SATAN01">
