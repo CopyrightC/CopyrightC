@@ -11,7 +11,7 @@
 
 - 📫 How to reach me :  Catch me on [discord](http://discord.com/users/510444035349938186)
 
-- ✨ <a href="https://copyrightc.netlify.app/" target="_blank">My website </a>
+- ✨ <a href="https://knowcopyrightc.vercel.app/" target="_blank">My website </a>
 
 - My <a href = "https://www.fiverr.com/shourya_001" target = "_blank">Fiverr</a>
 
