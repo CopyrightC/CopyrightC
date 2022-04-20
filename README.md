@@ -13,7 +13,7 @@
 
 - ✨ <a href="https://copyrightc.netlify.app/" target="_blank">My website </a>
 
-- Catch me up on <a href = "https://www.fiverr.com/shourya_001" target = "_blank">Fiverr</a>
+- My <a href = "https://www.fiverr.com/shourya_001" target = "_blank">Fiverr</a>
 
 - Also, I use Arch btw.
 
